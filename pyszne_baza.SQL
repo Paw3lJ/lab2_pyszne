@@ -16,6 +16,7 @@ CREATE TABLE `Restauracje`
   `Opis` Varchar(200),
   `Miasto` Char(30),
   `Ulica` Char(50),
+  `Kod_pocztowy` VARCHAR(6),
   PRIMARY KEY (`Id_res`)
 )
 ;
