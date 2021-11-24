@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Nie pyszne</title>
-        <meta name="description" content="Strona służąca do zamawiania jedzonka">
+        <meta name="description" content="Strona służąca do zamawiania jedzenia pod wskazany adres">
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
